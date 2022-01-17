@@ -5,7 +5,7 @@
 <section align="center">
   <a href="https://github.com/webdevraul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react&hide=stars,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=3&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=4&theme=react"/>
   </a>
 </section>
 <br>
