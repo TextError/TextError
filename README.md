@@ -10,10 +10,10 @@
 </section>
 <section align="center">
   <a href="https://github.com/WebDevRaul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react&hide=stars,contribs"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react"/>
   </a>
   <a href="https://github.com/WebDevRaul">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=3&theme=react&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=8&theme=react"/>
   </a>
 </section>
 <br>
