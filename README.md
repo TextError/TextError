@@ -3,13 +3,19 @@
 </h3>
 <br>
 <section align="center">
+  <a href="https://github.com/webdevraul">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=8&theme=react"/>
+  </a>
+</section>
+<!-- <section align="center">
   <a href="https://github.com/WebDevRaul">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react"/>
   </a>
   <a href="https://github.com/WebDevRaul">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=8&theme=react"/>
   </a>
-</section>
+</section> -->
 <br>
 <section align="center">
   <a href="https://github.com/WebDevRaul/github-readme-streak-stats">
