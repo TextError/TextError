@@ -9,6 +9,12 @@
   </a>
 </section>
 <br>
+<section align="center">
+  <a href="https://github.com/webdevraul">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebDevRaul&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  </a>
+</section>
+<br>
 <section align='center'>
   <h3>🔗 Connect with me 🔗</h3>
   <a href = "mailto:webdevraul@gmail.com">
