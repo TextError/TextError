@@ -10,8 +10,8 @@
 </section>
 <br>
 <section align="center">
-  <a href="https://github.com/webdevraul">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WebDevRaul&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://github.com/WebDevRaul/github-readme-streak-stats">
+  <img alt="WebDevRaul's streak" src="https://github-readme-streak-stats.herokuapp.com?user=WebDevRaul&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </section>
 <br>
