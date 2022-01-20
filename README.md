@@ -2,12 +2,12 @@
   Hi there, I'm Savin Raul-Calin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 <br>
-<section align="center">
+<!-- <section align="center">
   <a href="https://github.com/webdevraul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevraul&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevraul&layout=compact&langs_count=8&theme=react"/>
   </a>
-</section>
+</section> -->
 <br>
 <section align="center">
   <a href="https://github.com/WebDevRaul/github-readme-streak-stats">
