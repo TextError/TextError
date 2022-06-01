@@ -1,5 +1,5 @@
 <h3 align='center'>
-  Hi there, I'm Savin Raul-Calin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+  Hi there, I'm Savin Raul-Calin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25">
 </h3>
 <br>
 <!-- <section align="center">
